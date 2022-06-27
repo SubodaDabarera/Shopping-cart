@@ -2,7 +2,7 @@
 
 Shopping cart with basic css styles.
 
-Used KoaJs as backend and used ReactJS as frontend
+Used __KoaJs__ as backend and used __ReactJS__ as frontend
 
 To run,
 go to the directory (ex: backend) and,
